@@ -48,4 +48,6 @@ Flexible System Probed by FRET and Molecular Dynamics Simulations. J Chem Theory
 Comput 2023, 19 (8), 2389-2409.
 
 
+## Authors
 
+* Milana Popara
