@@ -32,7 +32,7 @@ It is not required that the cluster representatives and their corresponding weig
 
 ## Dependencies
 
-RMSD_matrix.py is a python script bult on Python 3.8.8. Script was tested with provided examplary input files under the following configuration:
+RMSD_matrix.py is a python script built on Python 3.8.8. Script was tested under the following configuration:
 
 * Windows 10
 * Python 3.8.8
