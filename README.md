@@ -36,7 +36,7 @@ RMSD_matrix.py is a python script built on Python 3.8.8. Script was tested under
 
 * Windows 10
 * Python 3.8.8
-* mdtraj 1.23.0
+* mdtraj 1.9.4
 * numpy 1.23.0
 * matplotlib 3.7.1
 
